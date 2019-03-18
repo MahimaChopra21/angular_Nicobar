@@ -1,0 +1,23 @@
+header
+{
+    position: fixed;
+    background: rgb(15, 15, 15);
+    width: 100%;
+    left: 0%;
+    padding: 5;
+    color: whitesmoke;
+    font-size: 13px;
+    /* overflow: hidden; */
+}
+
+a
+{
+    color: whitesmoke;
+
+}
+
+.search
+{
+    float: right;
+    border-radius: 10px;
+}
